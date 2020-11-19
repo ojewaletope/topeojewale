@@ -131,6 +131,14 @@ html, body {
   border-radius: 6px;
   text-align: justify;
 }
+.footer-section {
+  height: 5rem;
+  background: #222;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
 @media only screen and (max-width: 600px) {
   .hero-section {
     height: 51%;
